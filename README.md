@@ -52,8 +52,8 @@ Currently married individuals show the lowest average stress (32.08) — 3.5 poi
 With r = -0.07, age has virtually no relationship with stress in this dataset. Stress is shaped more by social and relational factors than by age alone.
 
 ## Charts
-![Average Stress Score by Gender](gender_stress_chart.png)
-![Average Stress Score by Marital Status](marital_stress_chart.png)
+![Average Stress Score by Gender](Average%20Stress%20Score%20by%20Gender.png)
+![Average Stress Score by Marital Status](Average%20Stress%20Score%20by%20Marital%20Status.png)
 
 ## About
 This project was completed as part of a data analyst portfolio.  
